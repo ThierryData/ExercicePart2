@@ -15,7 +15,7 @@
  Version 1.1
  */
 
-int duree=500;
+int duree=400;
 
 // the setup function runs once when you press reset or power the board
 void setup() {
